@@ -1,4 +1,4 @@
-# Simon Daykin - README / User Manual - v1.2
+# Simon Daykin - README / User Manual
 ---
 ## Introduction
 This document is a *User Manual* for the system called **Simon Daykin** of the homosapien architecture.  The purpose of the document is to give interfacing systems and users an understanding of how to get the best out of the system,  including an plethora of user information such as:
