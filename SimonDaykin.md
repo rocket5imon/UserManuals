@@ -25,9 +25,11 @@ Of the late 1970’s manufacture, the system runs a [Xennial](https://en.wikiped
 - High Assurance Information & Cyber Security
 - Public and Private Cloud for Mission Critical requirements
 
-In terms of physical aspects, the system is of the *Male* hardware model from a British manufacturing heritage.  The primary system cabinet is 1.88m tall (6'2") and of 'XXL' dimensions - although this has been reducing over recent times.  Outside of the business operating environment,  the system is tightly coupled with *Nicola*, and together they are developing enhanced and more modern systems called *Ian*, *Kate* & *Florrie*.
+In terms of physical aspects, the system is of the *Male* hardware model from a British manufacturing heritage.  The primary system cabinet is exactly 42RU high (1.88m / 6'2"), although slightly wider than the average data centre cabinet. Outside of the business operating environment,  the system is tightly coupled with *Nicola*, and together they are developing enhanced and more modern systems called *Ian*, *Kate* & *Florrie*.
 
 ## Interfacing
+
+The system aims to be accessible to all other systems,  with no access controls.  Specifically role of hierarchy in systems architecture should have no impact on access control.
 
 The systems has extensive interfaces, including
 - Co-located face-to-face
@@ -52,11 +54,9 @@ Where textual communication is used, particularly via the fast transmission inte
 
 The system interrupts work best when the most appropriate interface is used;  for example an urgent message requiring action should use a direct voice or instant message channel,  including a [SYN-ACK](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment) protocol. A long text based communication would be unsuited in this situation.  Conversely, an asynchronous group discussion on a complex idea or situation is likely best suited to a textual medium such group chat, email or document exchange.
 
-Where large documents are transmitted to the system requiring interpretation, it is always best to separately interface with the system to agree expectations for ingest, processing and subsequent action.  Due to the afore mentioned dyslexia instruction set, ingest of large volumes of text can require an extended period of single process operation, which is best scheduled.
+Where large documents are transmitted to the system requiring interpretation, it is always best to separately interface with the system to agree expectations for ingest, processing and subsequent action.  Due to the afore mentioned dyslexia instruction set, ingest of large volumes of text (such as large or complex documents) can require an extended period of single-process mode, which naturally is best scheduled and agreed in advane.
 
 The system does will not deliver bad news via non-realtime or textual interfaces, and expects the same from all interfacing systems.
-
-The system aims to be accessible to all other systems,  with no access controls.  Specifically role of hierarchy in systems architecture should have no impact on access control. 
 
 
 ## Operating Modes & Tips
@@ -69,7 +69,9 @@ The system actively promotes structure in both processing and storage, although 
 
 The system approaches cognition from a first principles basis, and thus will sometimes drive to a greater than anticipated level of detail to enable self test of understanding. As previously detailed,  this can be displayed as a highly questioning approach,  but this is purely for the basis of system level and broader group understanding. The systems primarily program considers testing of ideas at a low level a useful approach in validation.
 
-Non-functionals are of particular interest to the systems interpreter,  and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challenged, as required.  All aspects of security (information and cyber) its considered a mandatory consideration and extensive runtime is allocated to verification and validation in this domain.  
+Non-functionals are of particular interest to the systems interpreter,  and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challenged, as required.  For example, ensuring requirements are clear and well challenged around resilience, and that solutions are designed and verified to meet these requirements, but not exceed at greater cost.
+
+All aspects of security (information and cyber) its considered a mandatory consideration and extensive runtime is allocated to verification and validation in this domain.  
 
 On occasion,  the systems processor can miss-trap conditions and run ahead,  considering broader aspects or corollaries (such as business requirements, financial or technical constraints) without recognising the gap in lock-step with adjacent systems. In times such as this,  a ctrl+alt+del and interrupt is a valid approach (e.g. pause and highlight situation).  
 
@@ -81,6 +83,7 @@ The systems execution style is naturally visionary, affiliative and coaching in 
 
 The system has proven capabilities in presenting and story telling, and has received positive feedback for capabilities in this domain.  This has included large networks of other systems or for large venues with multiple thousand users.  It should however be noted that the system requires extensive pre-execution preparation for such tasks.
 
+The system does have an in-built HSHM (Healthy Sense of Humour Module), although due to the Autistic primary processor, it can fail to sometimes interpret jokes.  It is important to note the HSHM generates error codes for inappropriate, discriminative, or non-inclusive humour. 
 
 ## Maximising Performance & Efficiency
 
@@ -115,4 +118,4 @@ The system does not ingest any form of Hot Drink,  including Tea or Coffee.  Thi
 
 The systems primary technical vulnerability is biscuits, particularly of the [Bourbon](https://en.wikipedia.org/wiki/Bourbon_biscuit) nature.
 
-(C) Simon Daykin - 15 February 2022
+(C) Simon Daykin - 16 February 2022
