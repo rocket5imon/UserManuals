@@ -13,7 +13,7 @@ For example,  the manual covers information such as the nature of the system, ho
 
 ## System Overview
 
-Of the late 1970’s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Asperger](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage,  the system includes extensive data and binary executables in the domains of:
+Of the late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Asperger](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage,  the system includes extensive data and binary executables in the domains of:
 
 - Technology & Digital Transformation
 - System and Service Engineering & Management
@@ -93,7 +93,7 @@ Whilst the length of daily processing time will be dependant on load, maximum pe
 
 Of importance, the system requires a good period of hibernation (circa 8 hours) within each 24 hour operating period, otherwise the systems operating efficiency and performance can be impacted.  Should the system be operating in a remote location, please do not consider the system requesting permission to shutdown into hibernation mode as a lack of engagement,  but rather simply a method of preserving system performance.
 
-The system has extremely limited ability to handle Ethanol based substances, without a very significant impact to system performance for the following 24hr period. Whilst the system can participate in distributed processing environments where information is exchanged and Ethanol is consumed by networked systems,  it's likely the system will simply consume carbonated H2O.
+The system has extremely limited ability to handle Ethanol based substances, without a very significant impact to system performance for the following 24hr period. Whilst the system can participate in distributed processing environments where information is exchanged and Ethanol is consumed by networked systems,  it's likely the system will simply consume carbonated H<sub>2</sub>O.
 
 Offline time is also very important for system processing and information consolidation - specifically the system often generates some of its most innovative ideas and runtime improvements when it has a chance to work offline for a measurable period.
 
@@ -107,7 +107,7 @@ If executed, the following routines can overtake much of the realtime interfacin
 - Domestic Biomass Boilers
 - Tape as storage medium
 - Home Eco & Automation Technology
-- Electric Cars (specifically Teslas)
+- Electric Cars (specifically Tesla)
 - Full Circle Method Bell Ringing
 
 Due to the processor architecture of the system,  it can occasionally be susceptible to sensory overload, primarily in the audible input domain. Exposure to multiple speech streams simultaneously, or in environments where high levels of background noise occur simultaneously with speech, can both be troublesome. The system may struggle with interfacing successfully in such environments and may experience processor lag; a short period of shutdown normally allows for a successful reset.
@@ -119,3 +119,4 @@ The system does not ingest any form of Hot Drink,  including Tea or Coffee.  Thi
 The systems primary technical vulnerability is biscuits, particularly of the [Bourbon](https://en.wikipedia.org/wiki/Bourbon_biscuit) nature.
 
 (C) Simon Daykin - 16 February 2022
+Version 1.0.1
