@@ -118,5 +118,10 @@ The system does not ingest any form of Hot Drink,  including Tea or Coffee.  Thi
 
 The systems primary technical vulnerability is biscuits, particularly of the [Bourbon](https://en.wikipedia.org/wiki/Bourbon_biscuit) nature.
 
+## External Referrences
+
+[LinkedIn Profile](https://www.linkedin.com/in/simondaykin/)
+[Twitter Profile](https://twitter.com/rocketsimon)
+
 (C) Simon Daykin - 16 February 2022
 Version 1.0.1
