@@ -33,7 +33,7 @@ The system aims to be accessible to all other systems,  with no access controls.
 
 The systems has extensive interfaces, including
 - Co-located face-to-face
-- Voice only
+- Voice
 - Video
 - Instant Messaging
 - Email
