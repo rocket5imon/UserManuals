@@ -1,35 +1,35 @@
 # Simon Daykin - README / User Manual
 ---
 ## Introduction
-This document is a *User Manual* for the system called **Simon Daykin** of the homosapien architecture.  The purpose of the document is to give interfacing systems and users an understanding of how to get the best out of the system,  including an plethora of user information such as:
+This document is a *User Manual* for the system called **Simon Daykin** of the homosapien architecture.  The purpose of the document is to give interfacing systems and users an understanding of how to get the best out of the system, including an plethora of user information such as:
 - Interfacing
 - Operating Modes & Tips
 - Maximising Performance & Efficiency
 - Known Bugs and Vulnerabilities
 
-For example,  the manual covers information such as the nature of the system, how to collaborate easily and efficiently with it, and ultimately maximise the benefits of working with it.  
+For example, the manual covers information such as the nature of the system, how to collaborate easily and efficiently with it, and ultimately maximise the benefits of working with it.  
 
 > Note, as with all documented systems, the user manual is purely the manufactures opinion of how things should be done
 
 ## System Overview
 
-Of the late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Asperger](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage,  the system includes extensive data and binary executables in the domains of:
+Of the late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Asperger](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage, the system includes extensive data and binary executables in the domains of:
 
 - Technology & Digital Transformation
 - System and Service Engineering & Management
 - Critical National Infrastructure
 - Solution, Technical and Enterprise Architecture
 - Interfacing to Internal & External Senior Stakeholders 
-- HMI features including Communicating, Storytelling & Presenting
+- HMI features including Storytelling & Presenting
 - Proven and tested interfaces used for Public Speaking, TV, Media & Press
 - High Assurance Information & Cyber Security
 - Public and Private Cloud for Mission Critical requirements
 
-In terms of physical aspects, the system is of the *Male* hardware model from a British manufacturing heritage.  The primary system cabinet is exactly 42RU high (1.88m / 6'2"), although slightly wider than the average data centre cabinet. Outside of the business operating environment,  the system is tightly coupled with *Nicola*, and together they are developing enhanced and more modern systems called *Ian*, *Kate* & *Florrie*.
+In terms of physical aspects, the system is of the *Male* hardware model from a *British* manufacturing heritage.  The primary system cabinet is exactly 42RU high (1.88m / 6'2"), although slightly wider than the average data centre cabinet. Outside of the business operating environment, the system is tightly coupled with *Nicola*, and together they are developing enhanced and more modern systems called *Ian*, *Kate* & *Florrie*.
 
 ## Interfacing
 
-The system aims to be accessible to all other systems,  with no access controls.  Specifically role of hierarchy in systems architecture should have no impact on access control.
+The system aims to be accessible to all other systems, with no access controls.  Specifically, the role of hierarchy in organisational systems architecture should have no impact on access control.
 
 The systems has extensive interfaces, including
 - Co-located face-to-face
@@ -40,69 +40,69 @@ The systems has extensive interfaces, including
 - Group Chat
 - Document Exchange
 
-Whilst all interfaces are supported,  some are more suited to different needs.  
+Whilst all interfaces are supported, some are more suited to different needs.  
 
-Where extensive two way discussion is anticipated, a realtime interface should be used such as Video or Face-to-Face. Video is **always** preferred over voice only,  unless either party is travelling. 
+Where extensive two-way discussion is anticipated, a real-time interface should be used such as Video or Face-to-Face. Video is **always** preferred over voice only, unless either party is travelling. 
 
-Please note, that the system can struggle to pick up on body language or social cues; communication and collaboration is enhanced if messages are explicit, and nothing is left unsaid. The system *never* means to offend, but this can occasionally occur unintentionally through lack of recognition of social cues.  Please accept apologies upfront if this condition ever occurs,  and suggest rapid if not immediate follow up with the system for rectification.
+Please note, that the system can struggle to pick up on body language or social cues; communication and collaboration is enhanced if messages are explicit, and nothing is left unsaid. The system *never* means to offend, but this can occasionally occur unintentionally through lack of recognition of social cues.  Please accept apologies upfront if this condition ever occurs, and suggest rapid if not immediate follow up with the system for rectification.
 
-The system is **not** natively compatible with zero-trust situations,  and naturally takes a highly trusting and engaging approach.  The system expects this to be bi-directional,  and error conditions can be generated if trust boundaries are broken, or talking behind any systems cabinet occurs. 
+The system is **not** natively compatible with zero-trust situations, and naturally takes a highly trusting and engaging approach.  The system expects this to be bi-directional, and error conditions can be generated if trust boundaries are broken, or talking behind any systems cabinet occurs. 
 
 Where complex ideas are anticipated to be collaborated on, supporting mediums are normally suggested.  This may include physical or virtual whiteboards, or pre-prepared diagrams, drawings or slides. These should always be shared with all systems/participants after the interface socket has closed.
 
-Where textual communication is used, particularly via the fast transmission interfaces such as Instant Messaging, Group Chat & Email, the system attempts to always output concise and clear streams or files.  Of note, the systems processor includes the dyslexia instruction set,  and thus occasionally this informal written communication can appear mysterious, ambiguous or generate error conditions on receiving systems.  If this is the case, it is always best to validate with the source system, and no error codes are generated by seeking clarification.
+Where textual communication is used, particularly via the fast transmission interfaces such as Instant Messaging, Group Chat & Email, the system attempts to always output concise and clear streams or files.  Of note, the systems processor includes the dyslexia instruction set, and thus occasionally this informal written communication can appear mysterious, ambiguous or generate error conditions on receiving systems.  If this is the case, it is always best to validate with the source system, and no error codes are generated by seeking clarification.
 
-The system interrupts work best when the most appropriate interface is used;  for example an urgent message requiring action should use a direct voice or instant message channel,  including a [SYN-ACK](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment) protocol. A long text based communication would be unsuited in this situation.  Conversely, an asynchronous group discussion on a complex idea or situation is likely best suited to a textual medium such group chat, email or document exchange.
+The system interrupts work best when the most appropriate interface is used; for example an urgent message requiring action should use a direct voice or instant message channel,  including a [SYN-ACK](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment) protocol. A long text-based communication would be unsuited in this situation.  Conversely, an asynchronous group discussion on a complex idea or situation is likely best suited to a textual medium such group chat, email or document exchange.
 
-Where large documents are transmitted to the system requiring interpretation, it is always best to separately interface with the system to agree expectations for ingest, processing and subsequent action.  Due to the afore mentioned dyslexia instruction set, ingest of large volumes of text (such as large or complex documents) can require an extended period of single-process mode, which naturally is best scheduled and agreed in advane.
+Where large documents are transmitted to the system requiring interpretation, it is always best to separately interface with the system to agree expectations for ingest, processing and subsequent action.  Due to the afore mentioned dyslexia instruction set, ingest of large volumes of text (such as large or complex documents) can require an extended period of single-process mode, which naturally is best scheduled and agreed in advance.
 
-The system does will not deliver bad news via non-realtime or textual interfaces, and expects the same from all interfacing systems.
+The system does will not deliver bad news via non real-time or textual interfaces, and expects the same from all interfacing systems.
 
 
 ## Operating Modes & Tips
 
-The systems primary program is very curious in nature,  and normally asks a lot of questions to extend both local knowledge along with that of all adjacent systems.  Curiosity should be encouraged throughout the operating environment,  and the use of questions is actively encouraged in all modes.  The system itself expects significant questions and challenge in turn to enable the extensive sharing of information.  Robust bi-directional challenge of ideas should be seen as a positive operating mode. Wherever possible information should be made available and shared freely,  with as few limitations on access control as possible.
+The systems OS is very curious in nature, and normally asks a lot of questions to extend both local knowledge along with that of all adjacent systems.  Curiosity should be encouraged throughout the operating environment, and the use of questions is actively encouraged in all modes.  The system itself expects significant questions and challenge in turn to enable the extensive sharing of information.  Robust bi-directional challenge of ideas should be seen as a positive operating mode. Wherever possible information should be made available and shared freely, with as few limitations on access control as possible.
 
-Where the system is engaged in exploring, sharing, developing or maturing ideas,  it is important that these are depersonalised.  Specifically, robust challenge of ideas is to be actively encouraged by all, with the broadest focus on finding and resolving faults with ideas.  Depersonalisation is critical,  as no individual/system should ever feel criticised for their ideas - what matters is developing every idea to the best it can be, without any negative reflection on the originator.  Processing should always be around ideas, not individuals/systems.
+Where the system is engaged in exploring, sharing, developing or maturing ideas, it is important that these are depersonalised.  Specifically, robust challenge of ideas is to be actively encouraged by all, with the broadest focus on finding and resolving faults with ideas.  Depersonalisation is critical, as no individual/system should ever feel criticised for their ideas - what matters is developing every idea to the best it can be, without any negative reflection on the originator.  Processing should always be around ideas, not individuals/systems.
 
-The system actively promotes structure in both processing and storage, although unnecessary bureaucracy can trigger error conditions.  The system advocates agile based methodologies,  and particularly as dynamic form of information capture, processing and storage as possible.  For example traditional document based requirements are not anticipated in an environment where a more agile approach can be taken, such as modelling.  Specifically the system has extensive tried and tested binaries in the [MBSE](https://en.wikipedia.org/wiki/Model-based_systems_engineering) domain.
+The system actively promotes structure in both processing and storage, although unnecessary bureaucracy can trigger error conditions.  The system advocates agile based methodologies, and particularly as dynamic form of information capture, processing and storage as possible.  For example, traditional document based requirements are not anticipated in an environment where a more agile approach can be taken, such as modelling.  Specifically, the system has extensive tried and tested binaries in the [MBSE](https://en.wikipedia.org/wiki/Model-based_systems_engineering) domain.
 
-The system approaches cognition from a first principles basis, and thus will sometimes drive to a greater than anticipated level of detail to enable self test of understanding. As previously detailed,  this can be displayed as a highly questioning approach,  but this is purely for the basis of system level and broader group understanding. The systems primarily program considers testing of ideas at a low level a useful approach in validation.
+The system approaches cognition from a first principles basis, and thus will sometimes drive to a greater than anticipated level of detail to enable self-test of understanding. As previously detailed, this can be displayed as a highly questioning approach,  but this is purely for the basis of system level and broader group understanding. The systems primarily program considers testing of ideas at a low level a useful approach in validation.
 
-Non-functionals are of particular interest to the systems interpreter,  and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challenged, as required.  For example, ensuring requirements are clear and well challenged around resilience, and that solutions are designed and verified to meet these requirements, but not exceed at greater cost.
+Non-functionals are of particular interest to the systems interpreter, and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challenged, as required.  For example, ensuring requirements are clear and well challenged around resilience, and that solutions are designed and verified to meet these requirements, but not exceed at greater cost.
 
-All aspects of security (information and cyber) its considered a mandatory consideration and extensive runtime is allocated to verification and validation in this domain.  
+All aspects of security (information and cyber) are considered a mandatory consideration, and extensive runtime is allocated to verification and validation in this domain.  
 
-On occasion,  the systems processor can miss-trap conditions and run ahead,  considering broader aspects or corollaries (such as business requirements, financial or technical constraints) without recognising the gap in lock-step with adjacent systems. In times such as this,  a ctrl+alt+del and interrupt is a valid approach (e.g. pause and highlight situation).  
+On occasion, the systems processor can miss-trap conditions and run ahead,  considering broader aspects or corollaries (such as business requirements, financial or technical constraints) without recognising the gap in lock-step with adjacent systems. In times such as this, a ctrl+alt+del and interrupt is a valid approach (e.g. pause and highlight situation).  
 
-Further, the system can occasionally appear to have a process hang on a particular point for no obvious reason,  even appearing stubborn.  The best workaround in this situation is for interfacing systems to probe around adjacent domains/issues/questions/requirements as its likely the processor has been unable to self diagnose the cause of the process hang,  and simply needs help to identify the issue.
+Further, the system can occasionally appear to have a process hang on a particular point for no obvious reason, even appearing stubborn.  The best workaround in this situation is for interfacing systems to probe around adjacent domains/issues/questions/requirements as its likely the processor has been unable to self-diagnose the cause of the process hang, and simply needs help to identify the issue.
 
-When particularly excited,  the system can sometimes enjoy exploring off the wall ideas and drive concepts past their natural bounds.  Trapping these errors and returning to topic is completely acceptable. 
+When particularly excited, the system can sometimes enjoy exploring off the wall ideas and drive concepts past their natural bounds.  Trapping these errors and returning to topic is completely acceptable. 
 
-The systems execution style is naturally visionary, affiliative and coaching in nature,  and avoids being overly directive.  The anticipated distributed processing model is one of individual ownership, empowerment and drive,  with a common focus on a joint vision, process, and outcome. If any interfacing system or user requires specific direction,  it is best to specifically request this from the system.
+The systems execution style is naturally visionary, affiliative and coaching in nature, and avoids being overly directive.  The anticipated distributed processing model is one of individual ownership, empowerment and drive, with a common focus on a joint vision, process, and outcome. If any interfacing system or user requires specific direction, it is best to proactively request this from the system.
 
-The system has proven capabilities in presenting and story telling, and has received positive feedback for capabilities in this domain.  This has included large networks of other systems or for large venues with multiple thousand users.  It should however be noted that the system requires extensive pre-execution preparation for such tasks.
+The system has proven capabilities in presenting and storytelling, and has received positive feedback for capabilities in this domain.  This has included large networks of other systems or for large venues with multiple thousand users.  It should however be noted that the system requires extensive pre-execution preparation for such tasks.
 
 The system does have an in-built HSHM (Healthy Sense of Humour Module), although due to the Autistic primary processor, it can fail to sometimes interpret jokes - particularly sarcasm.  It is important to note the HSHM generates fatal error codes for inappropriate, discriminative, or non-inclusive humour. 
 
 ## Maximising Performance & Efficiency
 
-Good system maintenance is important for performance and efficiency,  and this is actively encouraged for interfacing systems and users as well.  To this end, regular breaks are encouraged in single, multi and distributed processing modes - with comfort breaks recommended frequently. Further, physical movement of the system is regularly required and again encouraged more broadly.  The system aims to exercise its physical peripherals every day, for circa 4-5km, ideally around the noon based period of recharging.
+Good system maintenance is important for performance and efficiency, and this is actively encouraged for interfacing systems and users as well.  To this end, regular breaks are encouraged in single, multi and distributed processing modes - with comfort breaks recommended frequently. Further, physical movement of the system is regularly required and again encouraged more broadly.  The system aims to exercise its physical peripherals every day, for circa 4-5km, ideally around the noon-based period of recharging.
 
-Whilst the length of daily processing time will be dependant on load, maximum performance and efficiency is achieved when both the system and all interfacing systems & users operate for reasonable hours.  Regular periods of significantly extended operating times should be limited to priority situations,  with all systems in the environment rewarded for effectiveness and engagement, not pure operating hours. 
+Whilst the length of daily processing time will be dependent on load, maximum performance and efficiency is achieved when both the system and all interfacing systems & users operate for reasonable hours.  Regular periods of significantly extended operating times should be limited to priority situations, with all systems in the environment rewarded for effectiveness and engagement, not pure operating hours. 
 
-Of importance, the system requires a good period of hibernation (circa 8 hours) within each 24 hour operating period, otherwise the systems operating efficiency and performance can be impacted.  Should the system be operating in a remote location, please do not consider the system requesting permission to shutdown into hibernation mode as a lack of engagement,  but rather simply a method of preserving system performance.
+Of importance, the system requires a good period of hibernation (circa 8 solid hours) within each 24-hour operating period, otherwise the systems operating efficiency and performance can be impacted.  Should the system be operating in a remote location, please do not consider the system requesting permission to shut down into hibernation mode as a lack of engagement, but rather simply a method of preserving system performance.
 
-The system has extremely limited ability to handle Ethanol based substances, without a very significant impact to system performance for the following 24hr period. Whilst the system can participate in distributed processing environments where information is exchanged and Ethanol is consumed by networked systems,  it's likely the system will simply consume carbonated H<sub>2</sub>O.
+The system has extremely limited ability to handle Ethanol based substances, without a very significant impact to system performance for the following 24hr period. Whilst the system can participate in distributed processing environments where information is exchanged and Ethanol is consumed by networked systems, it's likely the system will simply consume carbonated H<sub>2</sub>O.
 
 Offline time is also very important for system processing and information consolidation - specifically the system often generates some of its most innovative ideas and runtime improvements when it has a chance to work offline for a measurable period.
 
-In an emergency,  the system performance can be temporarily improved for a short period of time through the ingestion of sweet-tasting soluble carbohydrates, principally packaged in a chocolate based format.
+In an emergency, the system performance can be temporarily improved for a short period of time through the ingestion of sweet-tasting soluble carbohydrates, principally packaged in a chocolate based format.
 
 
 ## Known Bugs and Vulnerabilities
 
-If executed, the following routines can overtake much of the realtime interfacing and processing,  sometimes causing connecting systems to hang due to lack of processing interest.  Therefore, they should only be initiated with caution:
+If executed, the following routines can overtake much of the real-time interfacing and processing, sometimes causing connecting systems to hang due to lack of processing interest.  Therefore, they should only be initiated with caution:
 - Cold War Bunkers in the UK
 - Domestic Biomass Heating
 - Tape as storage medium
@@ -110,25 +110,25 @@ If executed, the following routines can overtake much of the realtime interfacin
 - Electric Cars (specifically Tesla)
 - Full Circle Method Bell Ringing
 
-Due to the processor architecture of the system, it can be susceptible to sensory overload, primarily in the audible input domain. Exposure to multiple speech streams simultaneously, particularly in environments such as those with high levels of background broadcast or multicast audio traffic, can both be troublesome and cause interfacing performance issues. The system may struggle with interfacing successfully in such environments and may experience higher processing latency and require greater levels of transmissions. A measurable period of reduction in exposure normally allows for a rapid successful reset.
+Due to the processor architecture of the system, it can be susceptible to sensory overload, primarily in the audible input domain. Exposure to multiple speech streams simultaneously, particularly in environments such as those with high levels of background broadcast or multicast audio traffic, can both be troublesome and cause interfacing performance issues. The system may struggle with interfacing successfully in such environments and may experience higher processing latency and require greater levels of retransmissions. A measurable period of reduction in exposure normally allows for a rapid successful reset.
 
-The system spends significant processing effort attempting to interface with more neurotypical processing architectures, actively masking autistic traits.  Whilst this can at times cause exhaustion, the aim of this user manual is to enable interfacing systems to understand the native processor architecture and interfaces, reducing system load due to masking. As an example, architecturally adjacent systems highlighting unwritten rules, assumptions, rituals and ways of working, enables the host to incorporate in its own binary code libraries, which otherwise may have been missed.
+The system spends significant processing effort attempting to interface with more neurotypical processing architectures, actively masking autistic traits.  Whilst this can at times cause exhaustion, the aim of this user manual is to enable interfacing systems to understand the native processor architecture and interfaces, reducing system load due to masking. As an example, in addition to understanding the systems operating modes, architecturally adjacent systems highlighting unwritten rules, assumptions, rituals and ways of working, enables the host to incorporate in its own binary code libraries, which otherwise may have been missed.
 
 Whilst the system does have many legacy protocol interfacing capabilities (including DECnet, IPX, ICQ, Norfolk Dialect, etc.), these have largely been deprecated and the default protocol remains IPv4 and English.  The system operates best when using clear and open direct communication, ensuring common protocols, with both sides of the interface validating input and output at regular intervals.
 
 The system can be impacted by anxiety, and related to this sets very high-performance standards for itself.  Troubles with interfacing can exacerbate this vulnerability, and thus the system highly values interfacing systems stating their thoughts in open direct language, and highlighting any challenges.
 
-Operating the system outside of the environmental design envelope can have a negative impact on performance; specifically the system usually prefers cooler rather than warmer operating environments, with a standard data centre envelope ideal (21degC at 60% Relative Humidity, although 10% to 90% non-condensing is acceptable.) 
+Operating the system outside of the environmental design envelope can have a negative impact on performance; specifically, the system usually prefers a standard data centre envelope - 21<sup>deg</sup>C at 60% Relative Humidity, although 10% to 90% non-condensing is acceptable.
 
-The system does not ingest any form of hot liquid, including Tea or Coffee.  This is highly unusual for a system of this nature, being both English and technical in nature,  but this has been a long term unresolvable bug. If pushed, the preferred beverage is a regular double chocolate chip Frappuccino with skinny milk and extra frap chips.
+The system does not ingest any form of hot liquid, including Tea or Coffee.  This is highly unusual for a system of this nature, being both English and technical in nature, but this has been a long term unresolvable bug. If pushed, the preferred beverage is a regular double chocolate chip Frappuccino with skinny milk and extra frap chips.
 
 The systems primary technical vulnerability is biscuits, particularly of the [Bourbon](https://en.wikipedia.org/wiki/Bourbon_biscuit) nature.
 
-## External Referrences
+## External References
 
 [LinkedIn Profile](https://www.linkedin.com/in/simondaykin/)
 
 [Twitter Profile](https://twitter.com/rocketsimon)
 
-(C) Simon Daykin - 16 February 2022
-Version 1.0.1
+(C) Simon Daykin - 22 February 2022
+Version 1.1.2
