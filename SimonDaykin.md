@@ -83,7 +83,7 @@ The systems execution style is naturally visionary, affiliative and coaching in 
 
 The system has proven capabilities in presenting and story telling, and has received positive feedback for capabilities in this domain.  This has included large networks of other systems or for large venues with multiple thousand users.  It should however be noted that the system requires extensive pre-execution preparation for such tasks.
 
-The system does have an in-built HSHM (Healthy Sense of Humour Module), although due to the Autistic primary processor, it can fail to sometimes interpret jokes.  It is important to note the HSHM generates error codes for inappropriate, discriminative, or non-inclusive humour. 
+The system does have an in-built HSHM (Healthy Sense of Humour Module), although due to the Autistic primary processor, it can fail to sometimes interpret jokes - particularly sarcasm.  It is important to note the HSHM generates fatal error codes for inappropriate, discriminative, or non-inclusive humour. 
 
 ## Maximising Performance & Efficiency
 
@@ -102,19 +102,25 @@ In an emergency,  the system performance can be temporarily improved for a short
 
 ## Known Bugs and Vulnerabilities
 
-If executed, the following routines can overtake much of the realtime interfacing and processing,  often causing connecting systems to hang.  Therefore, they should only be initiated with caution:
+If executed, the following routines can overtake much of the realtime interfacing and processing,  sometimes causing connecting systems to hang due to lack of processing interest.  Therefore, they should only be initiated with caution:
 - Cold War Bunkers in the UK
-- Domestic Biomass Boilers
+- Domestic Biomass Heating
 - Tape as storage medium
-- Home Eco & Automation Technology
+- Home Eco & Automation Technology - Simon featured on [BBC News](https://www.bbc.co.uk/news/technology-38261690).
 - Electric Cars (specifically Tesla)
 - Full Circle Method Bell Ringing
 
-Due to the processor architecture of the system,  it can occasionally be susceptible to sensory overload, primarily in the audible input domain. Exposure to multiple speech streams simultaneously, or in environments where high levels of background noise occur simultaneously with speech, can both be troublesome. The system may struggle with interfacing successfully in such environments and may experience processor lag; a short period of shutdown normally allows for a successful reset.
+Due to the processor architecture of the system, it can be susceptible to sensory overload, primarily in the audible input domain. Exposure to multiple speech streams simultaneously, particularly in environments such as those with high levels of background broadcast or multicast audio traffic, can both be troublesome and cause interfacing performance issues. The system may struggle with interfacing successfully in such environments and may experience higher processing latency and require greater levels of transmissions. A measurable period of reduction in exposure normally allows for a rapid successful reset.
 
-Operating the system outside of the environmental design envelope can have a negative impact on performance;  specifically the system usually prefers cooler rather than warmer environments.
+The system spends significant processing effort attempting to interface with more neurotypical processing architectures, actively masking autistic traits.  Whilst this can at times cause exhaustion, the aim of this user manual is to enable interfacing systems to understand the native processor architecture and interfaces, reducing system load due to masking. As an example, architecturally adjacent systems highlighting unwritten rules, assumptions, rituals and ways of working, enables the host to incorporate in its own binary code libraries, which otherwise may have been missed.
 
-The system does not ingest any form of Hot Drink,  including Tea or Coffee.  This is highly unusual for a system of this nature,  being both British and technical in nature,  but has been a long term unresolvable bug.
+Whilst the system does have many legacy protocol interfacing capabilities (including DECnet, IPX, ICQ, Norfolk Dialect, etc.), these have largely been deprecated and the default protocol remains IPv4 and English.  The system operates best when using clear and open direct communication, ensuring common protocols, with both sides of the interface validating input and output at regular intervals.
+
+The system can be impacted by anxiety, and related to this sets very high-performance standards for itself.  Troubles with interfacing can exacerbate this vulnerability, and thus the system highly values interfacing systems stating their thoughts in open direct language, and highlighting any challenges.
+
+Operating the system outside of the environmental design envelope can have a negative impact on performance; specifically the system usually prefers cooler rather than warmer operating environments, with a standard data centre envelope ideal (21degC at 60% Relative Humidity, although 10% to 90% non-condensing is acceptable.) 
+
+The system does not ingest any form of hot liquid, including Tea or Coffee.  This is highly unusual for a system of this nature, being both English and technical in nature,  but this has been a long term unresolvable bug. If pushed, the preferred beverage is a regular double chocolate chip Frappuccino with skinny milk and extra frap chips.
 
 The systems primary technical vulnerability is biscuits, particularly of the [Bourbon](https://en.wikipedia.org/wiki/Bourbon_biscuit) nature.
 
