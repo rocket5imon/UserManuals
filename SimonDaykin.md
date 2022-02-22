@@ -20,8 +20,6 @@ Of the late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.
 - Critical National Infrastructure
 - Solution, Technical and Enterprise Architecture
 - Interfacing to Internal & External Senior Stakeholders 
-- HMI features including Storytelling & Presenting
-- Proven and tested interfaces used for Public Speaking, TV, Media & Press
 - High Assurance Information & Cyber Security
 - Public and Private Cloud for Mission Critical requirements
 
