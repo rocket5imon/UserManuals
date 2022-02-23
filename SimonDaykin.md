@@ -13,7 +13,7 @@ For example, the manual covers information such as the nature of the system, how
 
 ## System Overview
 
-Of the late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Asperger](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage, the system includes extensive data and binary executables in the domains of:
+Of late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Asperger](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage, the system includes extensive data and binary executables in the domains of:
 
 - Technology & Digital Transformation
 - System and Service Engineering & Management
@@ -40,7 +40,7 @@ The systems has extensive interfaces, including
 
 Whilst all interfaces are supported, some are more suited to different needs.  
 
-Where extensive two-way discussion is anticipated, a real-time interface should be used such as Video or Face-to-Face. Video is **always** preferred over voice only, unless either party is travelling. 
+Where extensive two-way discussion is anticipated, a real-time interface should be used such as Video or Face-to-Face. Video is **always** preferred over voice only, unless either party is travelling.
 
 Please note, that the system can struggle to pick up on body language or social cues; communication and collaboration is enhanced if messages are explicit, and nothing is left unsaid. The system *never* means to offend, but this can occasionally occur unintentionally through lack of recognition of social cues.  Please accept apologies upfront if this condition ever occurs, and suggest rapid if not immediate follow up with the system for rectification.
 
@@ -105,7 +105,7 @@ If executed, the following routines can overtake much of the real-time interfaci
 - Domestic Biomass Heating
 - Tape as storage medium
 - Home Eco & Automation Technology - Simon featured on [BBC News](https://www.bbc.co.uk/news/technology-38261690).
-- Electric Cars (specifically Tesla)
+- Electric Cars (including Tesla)
 - Full Circle Method Bell Ringing
 
 Due to the processor architecture of the system, it can be susceptible to sensory overload, primarily in the audible input domain. Exposure to multiple speech streams simultaneously, particularly in environments such as those with high levels of background broadcast or multicast audio traffic, can both be troublesome and cause interfacing performance issues. The system may struggle with interfacing successfully in such environments and may experience higher processing latency and require greater levels of retransmissions. A measurable period of reduction in exposure normally allows for a rapid successful reset.
@@ -128,5 +128,5 @@ The systems primary technical vulnerability is biscuits, particularly of the [Bo
 
 [Twitter Profile](https://twitter.com/rocketsimon)
 
-(C) Simon Daykin - 22 February 2022
-Version 1.1.2
+(C) Simon Daykin - 23 February 2022
+Version 1.1.3
