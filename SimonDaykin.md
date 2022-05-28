@@ -23,7 +23,7 @@ Of late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/
 - High Assurance Information & Cyber Security
 - Public and Private Cloud for Mission Critical requirements
 
-In terms of physical aspects, the system is of the *Male* hardware model from a mixture of *Welsh* and *English* manufacturing heritage.  The primary system cabinet is exactly 42RU high (1.88m / 6'2"), although slightly wider than the average data centre cabinet. Outside of the business operating environment, the system is tightly coupled with *Nicola*, and together they are developing enhanced and more modern systems called *Ian*, *Kate* & *Florrie*.
+In terms of physical aspects, the system is of the *Male* hardware model from a mixture of *Welsh* and *English* manufacturing heritage.  The primary system cabinet is exactly 42RU high (1.88m / 6'2"), although slightly wider than the average data centre cabinet. Outside of the business operating environment, the system is tightly coupled with *Nicola*, and together they are developing enhanced and more modern systems.
 
 ## Interfacing
 
