@@ -13,7 +13,7 @@ For example, the manual covers information such as the nature of the system, how
 
 ## System Overview
 
-Of late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Asperger](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage, the system includes extensive data and binary executables in the domains of:
+Of late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Aspergers](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage, the system includes extensive data and binary executables in the domains of:
 
 - Technology & Digital Transformation
 - System and Service Engineering & Management
@@ -30,6 +30,7 @@ In terms of physical aspects, the system is of the *Male* hardware model from a 
 The system aims to be accessible to all other systems, with no access controls.  Specifically, the role of hierarchy in organisational systems architecture should have no impact on access control.
 
 The systems has extensive interfaces, including
+
 - Co-located face-to-face
 - Voice
 - Video
@@ -67,9 +68,9 @@ The system actively promotes structure in both processing and storage, although 
 
 The system approaches cognition from a first principles basis, and thus will sometimes drive to a greater than anticipated level of detail to enable self-test of understanding. As previously detailed, this can be displayed as a highly questioning approach,  but this is purely for the basis of system level and broader group understanding. The systems primarily program considers testing of ideas at a low level a useful approach in validation.
 
-Non-functionals are of particular interest to the systems interpreter, and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challenged, as required.  For example, ensuring requirements are clear and well challenged around resilience, and that solutions are designed and verified to meet these requirements, but not exceed at greater cost.
+Non-functionals are of particular interest to the systems interpreter, and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challengedd.  For example, ensuring requirements are clear and well challenged around resilience, and that solutions are designed and verified to meet these requirements, but not exceed at greater cost.
 
-All aspects of security (information and cyber) are considered a mandatory consideration, and extensive runtime is allocated to verification and validation in this domain.  
+All aspects of security (information and cyber) are a mandatory consideration, and extensive runtime is allocated to verification and validation in this domain.  
 
 On occasion, the systems processor can miss-trap conditions and run ahead,  considering broader aspects or corollaries (such as business requirements, financial or technical constraints) without recognising the gap in lock-step with adjacent systems. In times such as this, a ctrl+alt+del and interrupt is a valid approach (e.g. pause and highlight situation).  
 
@@ -91,7 +92,7 @@ Whilst the length of daily processing time will be dependent on load, maximum pe
 
 Of importance, the system requires a good period of hibernation (circa 8 solid hours) within each 24-hour operating period, otherwise the systems operating efficiency and performance can be impacted.  Should the system be operating in a remote location, please do not consider the system requesting permission to shut down into hibernation mode as a lack of engagement, but rather simply a method of preserving system performance.
 
-The system has extremely limited ability to handle Ethanol based substances, without a very significant impact to system performance for the following 24hr period. Whilst the system can participate in distributed processing environments where information is exchanged and Ethanol is consumed by networked systems, it's likely the system will simply consume carbonated H<sub>2</sub>O.
+The system has a limited ability to handle Ethanol based substances, without a very significant impact to system performance for the following 24hr period. Whilst the system can participate in distributed processing environments where information is exchanged and Ethanol is consumed by networked systems, it's likely the system will simply consume carbonated H<sub>2</sub>O.
 
 Offline time is also very important for system processing and information consolidation - specifically the system often generates some of its most innovative ideas and runtime improvements when it has a chance to work offline for a measurable period.
 
@@ -101,6 +102,7 @@ In an emergency, the system performance can be temporarily improved for a short 
 ## Known Bugs and Vulnerabilities
 
 If executed, the following routines can overtake much of the real-time interfacing and processing, sometimes causing connecting systems to hang due to lack of processing interest.  Therefore, they should only be initiated with caution:
+
 - Cold War Bunkers in the UK
 - Domestic Biomass Heating
 - Tape as storage medium
@@ -128,5 +130,5 @@ The systems primary technical vulnerability is biscuits, particularly of the [Bo
 
 [Twitter Profile](https://twitter.com/rocketsimon)
 
-(C) Simon Daykin - 23 February 2022
-Version 1.1.3
+(C) Simon Daykin - 29 May 2022
+Version 1.1.4
