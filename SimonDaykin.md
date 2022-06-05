@@ -120,7 +120,7 @@ The system can be impacted by anxiety, and related to this sets very high-perfor
 
 Operating the system outside of the environmental design envelope can have a negative impact on performance; specifically, the system usually prefers a standard data centre envelope - 21<sup>deg</sup>C at 60% Relative Humidity, although 10% to 90% non-condensing is acceptable.
 
-The system does not ingest any form of hot liquid, including tea or coffee.  This is highly unusual for a system of this nature, being both English and technical in nature, but this has been a long term unresolvable bug. If pushed, the preferred beverage is a regular double chocolate chip Frappuccino with skinny milk and extra frap chips.
+The system does not ingest any form of hot liquid, including tea or coffee.  This is highly unusual for a system of this nature, being both English and technical in nature, but this has been a long term unresolvable bug. If pushed, the preferred beverage is a regular double chocolate chip Frappuccino® with skinny milk and extra frap chips.
 
 The systems primary technical vulnerability is biscuits, particularly of the [Bourbon](https://en.wikipedia.org/wiki/Bourbon_biscuit) nature.
 
