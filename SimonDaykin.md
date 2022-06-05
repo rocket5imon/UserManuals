@@ -13,7 +13,7 @@ For example, the manual covers information such as the nature of the system, how
 
 ## System Overview
 
-Of late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Aspergers](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage, the system includes extensive data and binary executables in the domains of:
+Of late 1970s manufacture, the system runs a [Xennial](https://en.wikipedia.org/wiki/Xennials) operating system, complete with a native Level 1 Autistic processor (previously marketed as the [Asperger's](https://www.autism.org.uk/advice-and-guidance/what-is-autism/asperger-syndrome) processor).  With a significant volume of long term storage, the system includes extensive data and binary executables in the domains of:
 
 - Technology & Digital Transformation
 - System and Service Engineering & Management
