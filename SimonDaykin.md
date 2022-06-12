@@ -30,7 +30,7 @@ In terms of physical aspects, the system is of the *Male* hardware model from a 
 
 The system aims to be accessible to all other systems, with no access controls.  Specifically, the role of hierarchy in organisational systems architecture should have no impact on access control.
 
-The systems has extensive interfaces, including
+The system has extensive interfaces, including
 
 - Co-located face-to-face
 - Voice
@@ -61,13 +61,13 @@ The system does will not deliver bad news via non real-time or textual interface
 
 ## Operating Modes & Tips
 
-The systems OS is very curious in nature, and normally asks a lot of questions to extend both local knowledge along with that of all adjacent systems.  Curiosity should be encouraged throughout the operating environment, and the use of questions is actively encouraged in all modes.  The system itself expects significant questions and challenge in turn to enable the extensive sharing of information.  Robust bi-directional challenge of ideas should be seen as a positive operating mode. Wherever possible information should be made available and shared freely, with as few limitations on access control as possible.
+The system's OS is very curious in nature, and normally asks a lot of questions to extend both local knowledge along with that of all adjacent systems.  Curiosity should be encouraged throughout the operating environment, and the use of questions is actively encouraged in all modes.  The system itself expects significant questions and challenge in turn to enable the extensive sharing of information.  Robust bi-directional challenge of ideas should be seen as a positive operating mode. Wherever possible information should be made available and shared freely, with as few limitations on access control as possible.
 
 Where the system is engaged in exploring, sharing, developing or maturing ideas, it is important that these are depersonalised.  Specifically, robust challenge of ideas is to be actively encouraged by all, with the broadest focus on finding and resolving faults with ideas.  Depersonalisation is critical, as no individual/system should ever feel criticised for their ideas - what matters is developing every idea to the best it can be, without any negative reflection on the originator.  Processing should always be around ideas, not individuals/systems.
 
 The system actively promotes structure in both processing and storage, although unnecessary bureaucracy can trigger error conditions.  The system advocates agile based methodologies, and particularly as dynamic form of information capture, processing and storage as possible.  For example, traditional document based requirements are not anticipated in an environment where a more agile approach can be taken, such as modelling.  Specifically, the system has extensive tried and tested binaries in the [MBSE](https://en.wikipedia.org/wiki/Model-based_systems_engineering) domain.
 
-The system approaches cognition from a first principles basis, and thus will sometimes drive to a greater than anticipated level of detail to enable self-test of understanding. As previously detailed, this can be displayed as a highly questioning approach,  but this is purely for the basis of system level and broader group understanding. The systems primarily program considers testing of ideas at a low level a useful approach in validation.
+The system approaches cognition from a first principles basis, and thus will sometimes drive to a greater than anticipated level of detail to enable self-test of understanding. As previously detailed, this can be displayed as a highly questioning approach,  but this is purely for the basis of system level and broader group understanding. The system's primary program considers testing of ideas at a low level a useful approach in validation.
 
 Non-functionals are of particular interest to the systems interpreter, and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challengedd.  For example, ensuring requirements are clear and well challenged around resilience, and that solutions are designed and verified to meet these requirements, but not exceed at greater cost.
 
