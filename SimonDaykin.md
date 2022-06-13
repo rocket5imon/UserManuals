@@ -10,7 +10,7 @@ This document is a *User Manual* for the system called **Simon Daykin** of the h
 
 For example, the manual covers information such as the nature of the system, how to collaborate easily and efficiently with it, and ultimately maximise the benefits of working with it.  
 
-> Note, as with all documented systems, the user manual is purely the manufactures opinion of how things should be done
+> Note, as with all documented systems, the user manual is purely the manufacturer's opinion of how things should be done
 
 ## System Overview
 
@@ -54,7 +54,7 @@ Where textual communication is used, particularly via fast transmission interfac
 
 The system interrupts work best when the most appropriate interface is used; for example an urgent message requiring action should use a direct voice or instant message channel,  including a [SYN-ACK](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment) protocol. A long text-based communication would be unsuited in this situation.  Conversely, an asynchronous group discussion on a complex idea or situation is likely best suited to a textual medium such group chat, email or document exchange.
 
-Where large documents are transmitted to the system requiring interpretation, it is always best to separately interface with the system to agree expectations for ingest, processing and subsequent action.  Due to the afore mentioned dyslexia instruction set, ingest of large volumes of text (such as large or complex documents) can require an extended period of single-process mode, which naturally is best scheduled and agreed in advance.
+Where large documents are transmitted to the system requiring interpretation, it is always best to separately interface with the system to agree expectations for ingest, processing and subsequent action.  Due to the aforementioned dyslexia instruction set, ingestion of large volumes of text (such as large or complex documents) can require an extended period of single-process mode, which naturally is best scheduled and agreed in advance.
 
 The system does will not deliver bad news via non real-time or textual interfaces, and expects the same from all interfacing systems.
 
@@ -69,13 +69,13 @@ The system actively promotes structure in both processing and storage, although 
 
 The system approaches cognition from a first principles basis, and thus will sometimes drive to a greater than anticipated level of detail to enable self-test of understanding. As previously detailed, this can be displayed as a highly questioning approach,  but this is purely for the basis of system level and broader group understanding. The system's primary program considers testing of ideas at a low level a useful approach in validation.
 
-Non-functionals are of particular interest to the systems interpreter, and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challengedd.  For example, ensuring requirements are clear and well challenged around resilience, and that solutions are designed and verified to meet these requirements, but not exceed at greater cost.
+Non-functionals are of particular interest to the systems interpreter, and they are regularly tested and validated against requirements.  The proportionality of resilience, particularly from a requirements and cost/benefit perspective is normally processed and challenged.  For example, ensuring requirements are clear and well challenged around resilience, and that solutions are designed and verified to meet these requirements, but not exceed at greater cost.
 
 All aspects of security (information and cyber) are a mandatory consideration, and extensive runtime is allocated to verification and validation in this domain.  
 
-On occasion, the systems processor can miss-trap conditions and run ahead,  considering broader aspects or corollaries (such as business requirements, financial or technical constraints) without recognising the gap in lock-step with adjacent systems. In times such as this, a ctrl+alt+del and interrupt is a valid approach (e.g. pause and highlight situation).  
+On occasion, the systems processor can miss-trap conditions and run ahead, considering broader aspects or corollaries (such as business requirements, financial or technical constraints) without recognising the gap in lock-step with adjacent systems. In times such as this, a ctrl+alt+del and interrupt is a valid approach (e.g. pause and highlight situation).  
 
-Further, the system can occasionally appear to have a process hang on a particular point for no obvious reason, even appearing stubborn.  The best workaround in this situation is for interfacing systems to probe around adjacent domains/issues/questions/requirements as its likely the processor has been unable to self-diagnose the cause of the process hang, and simply needs help to identify the issue.
+Further, the system can occasionally appear to have a process hang on a particular point for no obvious reason, even appearing stubborn.  The best workaround in this situation is for interfacing systems to probe around adjacent domains/issues/questions/requirements as it's likely the processor has been unable to self-diagnose the cause of the process hang, and simply needs help to identify the issue.
 
 When particularly excited, the system can sometimes enjoy exploring off the wall ideas and drive concepts past their natural bounds.  Trapping these errors and returning to topic is completely acceptable. 
 
@@ -91,7 +91,7 @@ Good system maintenance is important for performance and efficiency, and this is
 
 Whilst the length of daily processing time will be dependent on load, maximum performance and efficiency is achieved when both the system and all interfacing systems & users operate for reasonable hours.  Regular periods of significantly extended operating times should be limited to priority situations, with all systems in the environment rewarded for effectiveness and engagement, not pure operating hours. 
 
-Of importance, the system requires a good period of hibernation (circa 8 solid hours) within each 24-hour operating period, otherwise the systems operating efficiency and performance can be impacted.  Should the system be operating in a remote location, please do not consider the system requesting permission to shut down into hibernation mode as a lack of engagement, but rather simply a method of preserving system performance.
+Of importance, the system requires a good period of hibernation (circa 8 solid hours) within each 24-hour operating period, otherwise the system's operating efficiency and performance can be impacted.  Should the system be operating in a remote location, please do not consider the system requesting permission to shut down into hibernation mode as a lack of engagement, but rather simply a method of preserving system performance.
 
 The system has a limited ability to handle Ethanol based substances, without a very significant impact to system performance for the following 24hr period. Whilst the system can participate in distributed processing environments where information is exchanged and Ethanol is consumed by networked systems, it's likely the system will simply consume carbonated H<sub>2</sub>O.
 
